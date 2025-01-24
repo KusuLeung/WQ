@@ -1,0 +1,2 @@
+# WQ
+About WorldQuant Brain
