@@ -12,3 +12,6 @@ If there are like-minded partners working together, things will proceed more smo
 
 后续会更新API或者有机会会尝试整合数据仓库（难）的东西。
 如果有志同道合的伙伴一起，事情会更加顺利。
+
+文档分了中英文版本，中文只能作为参考，以英文为准。
+文档里WorldQuant平台上的操作例子，由于网页嵌套控件，暂无法完整获取下来，有其他方法获取麻烦私信一下我，谢谢。
